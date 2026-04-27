@@ -1,0 +1,32 @@
+{
+  "title": "追觅高端扫地机",
+  "subtitle": "北美公开产品页截图报告",
+  "browser": {
+    "channel": "msedge",
+    "headless": true,
+    "viewport": {
+      "width": 1440,
+      "height": 1200
+    }
+  },
+  "items": [
+    {
+      "slug": "dreame-x50-ultra",
+      "name": "追觅 X50 Ultra",
+      "url": "https://www.dreametech.com/products/x50-ultra-robot-vacuum",
+      "image_strategy": "selectors",
+      "wait_for": "body",
+      "selectors": [
+        {
+          "name": "主视觉",
+          "selector": "main"
+        }
+      ],
+      "facts": [
+        "系列：X 系列",
+        "区域：北美",
+        "来源：官方公开产品页"
+      ]
+    }
+  ]
+}

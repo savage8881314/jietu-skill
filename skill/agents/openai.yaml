@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Capture Layout"
+  short_description: "Capture public webpages and turn them into side-by-side image reports."
+  default_prompt: "Use $web-capture-layout to capture public product pages and build a Chinese side-by-side competitor report with screenshots."
+
+policy:
+  allow_implicit_invocation: true
